@@ -29,3 +29,13 @@ margin-top: 50px;
     margin: 10px 20px;
     text-align: justify;
 }
+.link-boutton{
+    color: wheat;
+    background-color: tomato;
+    margin-left: 40px;
+    width: 50px;
+    height: 20px;
+    padding: 10px 20px;
+    border: 4px solid red;
+    border-radius: 6px;
+}
