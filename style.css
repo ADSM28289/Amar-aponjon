@@ -1,0 +1,31 @@
+body{
+    background-image: url(style/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    color: tomato;
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+h6{
+    color: rgb(255, 198, 9);
+}
+span{
+    color: tomato;
+}
+.images-file{
+    display: flex;
+    margin: 10px 20px;
+}
+.images-file img{
+width: 25%;
+height: 25%;
+border: 5px double tomato;
+margin-top: 50px;
+}
+.pragraph{
+    margin: 10px 20px;
+    text-align: justify;
+}
