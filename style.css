@@ -39,3 +39,55 @@ margin-top: 50px;
     border: 4px solid red;
     border-radius: 6px;
 }
+#pragraph{
+    text-align: center;
+}
+#best-of-friends{
+    display: flex;
+    text-align: justify;
+    width: 50%;
+    padding: 2%;
+}
+}
+#best-of-friends img{
+    width: 50%;
+    padding: 5px;
+}
+.best-of-friends{
+    background-image: url(style/exp-bg.png);
+    background-repeat: no-repeat;
+    width: 50%;
+    display: flex;
+    padding: 2%;
+    text-align: justify;
+}
+.best-of-friends img{
+    width: 400%;
+    margin-right: 150px;
+}
+.kobita{
+    box-shadow: 20px 30px 40px slategray;
+    margin: 50px;
+    padding: 30px;
+    border-top: 7px solid;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(72, 22, 255), rgb(11, 255, 255));
+    border-image-slice: 1;
+    border-radius: 6px;
+
+}
+.sectionone{
+    background-image: url(style/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.sectiontow{
+    background-image: url(style/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.sectionthree{
+    background-image: url(style/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
